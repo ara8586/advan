@@ -28,7 +28,7 @@ sudo apt-get dist-upgrade
 
 ```sh
 # Let's install the bot.
-git clone https://github.com/shahradelahi/api-bot.git
+git clone https://github.com/Source-advan/inline.git
 cd api-bot
 cd api
 chmod +x launch.sh
